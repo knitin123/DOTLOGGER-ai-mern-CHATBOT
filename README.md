@@ -1,10 +1,10 @@
-# 📘 DOTLOGGER – AI-Based Prompt Logger and Analyzer
+#  DOTLOGGER – AI-Based Prompt Logger and Analyzer
 
 DOTLOGGER is a full-stack MERN-based web application designed to **log, analyze, and interpret user prompts** using OpenAI’s API. It includes authentication, database logging, and a fast frontend built with Vite.
 
 ---
 
-## 🚀 Features
+##  Features
 
   **Prompt Logger**: Users can input messages which are processed by OpenAI GPT.
   **AI Analysis**: Backend connects to OpenAI API to return intelligent responses.
